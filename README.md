@@ -1,1 +1,1 @@
-#  http://meuprimeirositeprimeiroc2024soph-astronauta.github.io/meuprimeirositeprimeiroc2024
+#  http://soph-astronauta.github.io/meuprimeirositeprimeiroc2024
