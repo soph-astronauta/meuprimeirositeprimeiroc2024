@@ -1,1 +1,0 @@
-# meuprimeirositeprimeiroc2024
