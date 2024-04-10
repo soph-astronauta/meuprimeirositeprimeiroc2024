@@ -1,13 +1,29 @@
 body{
     background-color: blue;
-    color: blueviolet;
-    font-weight: bold;
 }
 
-h1{
-    color: black;
+header{
+    background-color: red;
 }
 
-p{
-    background-color: aqua;
+/*classe atribuida para a div que vai receber a logotipo*/
+.logo{
+    background-color: aliceblue;
+}
+
+nav{
+    background-color: blueviolet;
+}
+
+main{
+    background-color: midnightblue;
+    weidh: 80%
+}
+
+section{
+    background-color: black;
+}
+
+footer{
+    background-color: mediumslateblue;
 }
