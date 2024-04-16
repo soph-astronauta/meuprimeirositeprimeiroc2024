@@ -1,9 +1,11 @@
 body{
     background-color: blue;
+    font-family: "geologica";
 }
 
 header{
     background-color: red;
+    padding: 3%;
 }
 
 /*classe atribuida para a div que vai receber a logotipo*/
@@ -17,7 +19,9 @@ nav{
 
 main{
     background-color: midnightblue;
-    weidh: 80%
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section{
@@ -26,4 +30,56 @@ section{
 
 footer{
     background-color: mediumslateblue;
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+
+.rodape{
+    padding: 3%;
+}
+
+.title{
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+ul li{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+    font-size: 1.2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+
+td,th{
+    border: 5px dashed #f00;
+    padding: 1.5%;
+}
+
+/* essa faz uma linha cor sim cor nao */
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
