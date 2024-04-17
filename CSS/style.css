@@ -1,6 +1,6 @@
 body{
     background-color: blue;
-    font-family: "geologica";
+    font-family: "geologica", sans-serif;
 }
 
 header{
@@ -18,14 +18,14 @@ nav{
 }
 
 main{
-    background-color: midnightblue;
+    background-color: rgba(255, 0, 0, 0.726);
     width: 80%;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
 }
 
 section{
-    background-color: black;
+    background-color: white;
 }
 
 footer{
@@ -79,7 +79,3 @@ td,th{
     padding: 1.5%;
 }
 
-/* essa faz uma linha cor sim cor nao */
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
