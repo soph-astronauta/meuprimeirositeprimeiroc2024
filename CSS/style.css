@@ -5,18 +5,18 @@ body{
 }
 
 header{
-    background-color: rgb(55, 0, 255);
+    background-color: rgb(0, 140, 255);
     padding: 3%;
     
 }
 
 /*classe atribuida para a div que vai receber a logotipo*/
 .logo{
-    background-color: aliceblue;
+    background-color: rgb(0, 140, 255);
 }
 
 nav{
-    background-color: blueviolet;
+    background-color: rgb(0, 140, 255);
 }
 
 main{
@@ -31,7 +31,7 @@ section{
 }
 
 footer{
-    background-color: rgb(3, 15, 189);
+    background-color: rgb(0, 140, 255);
     padding: 3%;
 }
 
@@ -40,7 +40,7 @@ footer{
 }
 
 .rodape{
-    padding: 3%;
+    padding: 4%;
 }
 
 .title{
