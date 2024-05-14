@@ -89,12 +89,11 @@ td,th{
 .linha{
     display: flex;
     flex-flow: row wrap;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
 
 .col-3{
-    width: 3%;
+    width: 25%;
 }
 
 .col-3p{
