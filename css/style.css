@@ -1,0 +1,139 @@
+body{
+    
+    background-image: url(../img/pillarsofcreation.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+    margin: 0%;
+    background-color: rgb(21, 123, 240);
+    font-family: geological;
+
+}
+
+header{
+    background-color: rgb(0, 140, 255);
+    padding: 3%;
+    
+}
+
+/*classe atribuida para a div que vai receber a logotipo*/
+.logo{
+    background-color: rgb(20, 88, 190);
+}
+
+nav{
+    background-color: rgb(42, 89, 190);
+}
+
+main{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+section{
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    background-color: rgb(0, 140, 255);
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+
+.rodape{
+    padding: 4%;
+}
+
+.title{
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+ul li{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+    font-size: 1.2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+
+td,th{
+    border: 5px dashed #f00;
+    padding: 1.5%;
+}
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.col-3{
+    width: 25%;
+    padding: 0 1%;
+    
+}
+
+.col-3p{
+    font-size: 1rem;
+    text-align: center;
+}
+
+.imggaleria{
+    width: 100%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+table {
+     border-collapse: collapse;
+     width: 80%;
+     font-size: 1,2em;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 2%;
+}
+
+td,th{
+    border: 5px darkblue;
+    padding: 1.5%;
+    
+}
+
+/* essa linha faz uma cor ou nao */
+tr:nth-child(even) {
+    background-color: blue;
+}
+
+img{
+    float: none;
+}
+
+
+
